@@ -1,0 +1,57 @@
+﻿@model IEnumerable<EmpOrgWeb.Models.EmpAddressDet>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_InnerPage.cshtml";
+}
+
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Address1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PinCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmployeeMst.FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StateMst.State_Name)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address1)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address2)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PinCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EmployeeMst.FirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StateMst.State_Name)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.AddressID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.AddressID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.AddressID })
+        </td>
+    </tr>
+}
+
+</table>

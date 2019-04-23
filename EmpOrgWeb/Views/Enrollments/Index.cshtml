@@ -1,0 +1,51 @@
+﻿@model IEnumerable<EmpOrgWeb.Models.Enrollment>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_InnerPage.cshtml";
+}
+
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Salary)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DepMst.Dept_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmployeeMst.FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StateMst.State_Name)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Salary)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DepMst.Dept_Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EmployeeMst.FirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StateMst.State_Name)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.EnrollmentID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.EnrollmentID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.EnrollmentID })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,483 @@
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\ApplicationInsights.config
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\EmpOrgWeb.dll.config
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\EmpOrgWeb.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\EmpOrgWeb.pdb
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csc.exe
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csc.exe.config
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csc.rsp
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csi.exe
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csi.exe.config
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csi.rsp
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.AppContext.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Console.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Diagnostics.Process.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.Compression.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.Pipes.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.AccessControl.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Claims.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Threading.Thread.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.ValueTuple.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\vbc.exe
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\vbc.exe.config
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\vbc.rsp
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\VBCSCompiler.exe
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\Antlr3.Runtime.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\EntityFramework.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\EntityFramework.SqlServer.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.Web.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.ApplicationInsights.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\Newtonsoft.Json.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Helpers.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Mvc.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Optimization.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Razor.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.Razor.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\WebGrease.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\EntityFramework.xml
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\EntityFramework.SqlServer.xml
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Helpers.xml
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Mvc.xml
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Optimization.xml
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Razor.xml
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.xml
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.Razor.xml
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\Newtonsoft.Json.xml
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\Antlr3.Runtime.pdb
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.Web.xml
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.csprojAssemblyReference.cache
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.csproj.CoreCompileInputs.cache
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.csproj.CopyComplete
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.pdb
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\ApplicationInsights.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\EmpOrgWeb.dll.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\EmpOrgWeb.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\EmpOrgWeb.pdb
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csc.exe
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csc.exe.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csc.rsp
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csi.exe
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csi.exe.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csi.rsp
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.AppContext.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Console.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Diagnostics.Process.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.Compression.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.Pipes.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.AccessControl.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Claims.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Threading.Thread.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.ValueTuple.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Xml.XPath.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\vbc.exe
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\vbc.exe.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\vbc.rsp
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\VBCSCompiler.exe
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\Antlr3.Runtime.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\EntityFramework.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\EntityFramework.SqlServer.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.Web.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.ApplicationInsights.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\Newtonsoft.Json.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Helpers.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Mvc.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Optimization.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Razor.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.Deployment.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.Razor.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\WebGrease.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\EntityFramework.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\EntityFramework.SqlServer.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Helpers.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Mvc.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Optimization.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Razor.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.Deployment.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.Razor.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\Newtonsoft.Json.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\Antlr3.Runtime.pdb
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.Web.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.csprojResolveAssemblyReference.cache
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.csproj.CoreCompileInputs.cache
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg1\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.pdb
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.Compression.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\VBCSCompiler.exe
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\ApplicationInsights.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\EmpOrgWeb.dll.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\EmpOrgWeb.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\EmpOrgWeb.pdb
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csc.exe
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csc.exe.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csc.rsp
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csi.exe
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csi.exe.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csi.rsp
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.AppContext.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Console.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Diagnostics.Process.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.Pipes.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.AccessControl.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Claims.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Threading.Thread.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.ValueTuple.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Xml.XPath.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\vbc.exe
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\vbc.exe.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\vbc.rsp
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Antlr3.Runtime.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\EntityFramework.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\EntityFramework.SqlServer.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.Web.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.ApplicationInsights.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Newtonsoft.Json.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Helpers.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Mvc.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Optimization.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Razor.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.Deployment.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.Razor.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\WebGrease.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\EntityFramework.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\EntityFramework.SqlServer.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Helpers.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Mvc.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Optimization.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Razor.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.Deployment.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.Razor.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Newtonsoft.Json.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Antlr3.Runtime.pdb
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.Web.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.csproj.CoreCompileInputs.cache
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.pdb
+E:\Projects_VS2012\TCIS\NZ_PROJ\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.csprojResolveAssemblyReference.cache
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\ApplicationInsights.config
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\EmpOrgWeb.dll.config
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\EmpOrgWeb.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\EmpOrgWeb.pdb
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csc.exe
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csc.exe.config
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csc.rsp
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csi.exe
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csi.exe.config
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csi.rsp
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.AppContext.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Console.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Diagnostics.Process.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.Compression.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.Pipes.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.AccessControl.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Claims.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Principal.Windows.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Threading.Thread.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.ValueTuple.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Xml.XmlDocument.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Xml.XPath.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\vbc.exe
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\vbc.exe.config
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\vbc.rsp
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\VBCSCompiler.exe
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Antlr3.Runtime.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\EntityFramework.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\EntityFramework.SqlServer.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.Agent.Intercept.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.DependencyCollector.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.Web.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.WindowsServer.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.ApplicationInsights.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Newtonsoft.Json.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Diagnostics.DiagnosticSource.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Helpers.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Mvc.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Optimization.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Razor.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.Deployment.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.Razor.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\WebGrease.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\EntityFramework.xml
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\EntityFramework.SqlServer.xml
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Helpers.xml
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Mvc.xml
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Optimization.xml
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Razor.xml
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.xml
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.Deployment.xml
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.Razor.xml
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Newtonsoft.Json.xml
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Antlr3.Runtime.pdb
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Diagnostics.DiagnosticSource.xml
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.DependencyCollector.xml
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.WindowsServer.xml
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.Web.xml
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.csprojAssemblyReference.cache
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.csproj.CoreCompileInputs.cache
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.csproj.CopyComplete
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.dll
+E:\projects\MVC5EF_EmpOrg\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.pdb
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\ApplicationInsights.config
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\EmpOrgWeb.dll.config
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\EmpOrgWeb.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\EmpOrgWeb.pdb
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csc.exe
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csc.exe.config
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csc.rsp
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csi.exe
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csi.exe.config
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\csi.rsp
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.AppContext.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Console.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Threading.Thread.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\vbc.exe
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\vbc.exe.config
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\vbc.rsp
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\Antlr3.Runtime.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\EntityFramework.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.Web.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\Newtonsoft.Json.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Helpers.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Mvc.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Optimization.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Razor.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\WebGrease.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\EntityFramework.xml
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Helpers.xml
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Mvc.xml
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Optimization.xml
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.Razor.xml
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.xml
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\Newtonsoft.Json.xml
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\Antlr3.Runtime.pdb
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.AI.Web.xml
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.csprojAssemblyReference.cache
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.csproj.CoreCompileInputs.cache
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.csproj.CopyComplete
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.dll
+C:\Users\SS077\Desktop\Student data\MVC5EF_EmpOrg-master\MVC5EF_EmpOrg\EmpOrgWeb\obj\Debug\EmpOrgWeb.pdb

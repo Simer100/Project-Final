@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="EmpOrgModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="DepMst">
+          <Key>
+            <PropertyRef Name="Dept_ID" />
+          </Key>
+          <Property Name="Dept_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Dept_Name" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="EmpAddressDet">
+          <Key>
+            <PropertyRef Name="AddressID" />
+          </Key>
+          <Property Name="AddressID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Address1" Type="nvarchar" MaxLength="50" />
+          <Property Name="Address2" Type="nvarchar" MaxLength="50" />
+          <Property Name="EmployeeID" Type="int" Nullable="false" />
+          <Property Name="StateID" Type="int" Nullable="false" />
+          <Property Name="PinCode" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="EmployeeMst">
+          <Key>
+            <PropertyRef Name="EmployeeID" />
+          </Key>
+          <Property Name="EmployeeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="FirstName" Type="nvarchar" MaxLength="50" />
+          <Property Name="MiddleName" Type="nvarchar" MaxLength="50" />
+          <Property Name="LastName" Type="nvarchar" MaxLength="50" />
+          <Property Name="Emp_Code" Type="nvarchar" MaxLength="50" />
+          <Property Name="DateOfBirth" Type="nvarchar" MaxLength="50" />
+          <Property Name="JoiningDate" Type="nvarchar" MaxLength="50" />
+          <Property Name="Image" Type="varchar" MaxLength="250" />
+          <Property Name="Gender" Type="nchar" MaxLength="20" />
+          <Property Name="EmailID" Type="nvarchar" MaxLength="250" />
+          <Property Name="MobileNo" Type="nvarchar" MaxLength="15" />
+        </EntityType>
+        <EntityType Name="Enrollment">
+          <Key>
+            <PropertyRef Name="EnrollmentID" />
+          </Key>
+          <Property Name="EnrollmentID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Salary" Type="numeric" Precision="18" Scale="0" />
+          <Property Name="Dept_ID" Type="int" Nullable="false" />
+          <Property Name="EmployeeID" Type="int" Nullable="false" />
+          <Property Name="StateID" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="StateMst">
+          <Key>
+            <PropertyRef Name="StateID" />
+          </Key>
+          <Property Name="StateID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="State_Name" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <Association Name="FK_dbo_EmpAddressDet_dbo_EmployeeMst_EmployeeID">
+          <End Role="EmployeeMst" Type="Self.EmployeeMst" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="EmpAddressDet" Type="Self.EmpAddressDet" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="EmployeeMst">
+              <PropertyRef Name="EmployeeID" />
+            </Principal>
+            <Dependent Role="EmpAddressDet">
+              <PropertyRef Name="EmployeeID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_EmpAddressDet_dbo_StateMst_StateID">
+          <End Role="StateMst" Type="Self.StateMst" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="EmpAddressDet" Type="Self.EmpAddressDet" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="StateMst">
+              <PropertyRef Name="StateID" />
+            </Principal>
+            <Dependent Role="EmpAddressDet">
+              <PropertyRef Name="StateID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_Enrollment_dbo_DepMst_Dept_ID">
+          <End Role="DepMst" Type="Self.DepMst" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="Enrollment" Type="Self.Enrollment" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="DepMst">
+              <PropertyRef Name="Dept_ID" />
+            </Principal>
+            <Dependent Role="Enrollment">
+              <PropertyRef Name="Dept_ID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_Enrollment_dbo_Employee_EmployeeID">
+          <End Role="EmployeeMst" Type="Self.EmployeeMst" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="Enrollment" Type="Self.Enrollment" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="EmployeeMst">
+              <PropertyRef Name="EmployeeID" />
+            </Principal>
+            <Dependent Role="Enrollment">
+              <PropertyRef Name="EmployeeID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_Enrollment_dbo_StateMst_StateID">
+          <End Role="StateMst" Type="Self.StateMst" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="Enrollment" Type="Self.Enrollment" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="StateMst">
+              <PropertyRef Name="StateID" />
+            </Principal>
+            <Dependent Role="Enrollment">
+              <PropertyRef Name="StateID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="EmpOrgModelStoreContainer">
+          <EntitySet Name="DepMst" EntityType="Self.DepMst" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="EmpAddressDet" EntityType="Self.EmpAddressDet" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="EmployeeMst" EntityType="Self.EmployeeMst" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Enrollment" EntityType="Self.Enrollment" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="StateMst" EntityType="Self.StateMst" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_dbo_EmpAddressDet_dbo_EmployeeMst_EmployeeID" Association="Self.FK_dbo_EmpAddressDet_dbo_EmployeeMst_EmployeeID">
+            <End Role="EmployeeMst" EntitySet="EmployeeMst" />
+            <End Role="EmpAddressDet" EntitySet="EmpAddressDet" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_EmpAddressDet_dbo_StateMst_StateID" Association="Self.FK_dbo_EmpAddressDet_dbo_StateMst_StateID">
+            <End Role="StateMst" EntitySet="StateMst" />
+            <End Role="EmpAddressDet" EntitySet="EmpAddressDet" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_Enrollment_dbo_DepMst_Dept_ID" Association="Self.FK_dbo_Enrollment_dbo_DepMst_Dept_ID">
+            <End Role="DepMst" EntitySet="DepMst" />
+            <End Role="Enrollment" EntitySet="Enrollment" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_Enrollment_dbo_Employee_EmployeeID" Association="Self.FK_dbo_Enrollment_dbo_Employee_EmployeeID">
+            <End Role="EmployeeMst" EntitySet="EmployeeMst" />
+            <End Role="Enrollment" EntitySet="Enrollment" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_Enrollment_dbo_StateMst_StateID" Association="Self.FK_dbo_Enrollment_dbo_StateMst_StateID">
+            <End Role="StateMst" EntitySet="StateMst" />
+            <End Role="Enrollment" EntitySet="Enrollment" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="EmpOrgModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="DepMst">
+          <Key>
+            <PropertyRef Name="Dept_ID" />
+          </Key>
+          <Property Name="Dept_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Dept_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Enrollments" Relationship="Self.FK_dbo_Enrollment_dbo_DepMst_Dept_ID" FromRole="DepMst" ToRole="Enrollment" />
+        </EntityType>
+        <EntityType Name="EmpAddressDet">
+          <Key>
+            <PropertyRef Name="AddressID" />
+          </Key>
+          <Property Name="AddressID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Address1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Address2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="EmployeeID" Type="Int32" Nullable="false" />
+          <Property Name="StateID" Type="Int32" Nullable="false" />
+          <Property Name="PinCode" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="EmployeeMst" Relationship="Self.FK_dbo_EmpAddressDet_dbo_EmployeeMst_EmployeeID" FromRole="EmpAddressDet" ToRole="EmployeeMst" />
+          <NavigationProperty Name="StateMst" Relationship="Self.FK_dbo_EmpAddressDet_dbo_StateMst_StateID" FromRole="EmpAddressDet" ToRole="StateMst" />
+        </EntityType>
+        <EntityType Name="EmployeeMst">
+          <Key>
+            <PropertyRef Name="EmployeeID" />
+          </Key>
+          <Property Name="EmployeeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="MiddleName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Emp_Code" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="DateOfBirth" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="JoiningDate" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Image" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+          <Property Name="Gender" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+          <Property Name="EmailID" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+          <Property Name="MobileNo" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="EmpAddressDets" Relationship="Self.FK_dbo_EmpAddressDet_dbo_EmployeeMst_EmployeeID" FromRole="EmployeeMst" ToRole="EmpAddressDet" />
+          <NavigationProperty Name="Enrollments" Relationship="Self.FK_dbo_Enrollment_dbo_Employee_EmployeeID" FromRole="EmployeeMst" ToRole="Enrollment" />
+        </EntityType>
+        <EntityType Name="Enrollment">
+          <Key>
+            <PropertyRef Name="EnrollmentID" />
+          </Key>
+          <Property Name="EnrollmentID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Salary" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="Dept_ID" Type="Int32" Nullable="false" />
+          <Property Name="EmployeeID" Type="Int32" Nullable="false" />
+          <Property Name="StateID" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="DepMst" Relationship="Self.FK_dbo_Enrollment_dbo_DepMst_Dept_ID" FromRole="Enrollment" ToRole="DepMst" />
+          <NavigationProperty Name="EmployeeMst" Relationship="Self.FK_dbo_Enrollment_dbo_Employee_EmployeeID" FromRole="Enrollment" ToRole="EmployeeMst" />
+          <NavigationProperty Name="StateMst" Relationship="Self.FK_dbo_Enrollment_dbo_StateMst_StateID" FromRole="Enrollment" ToRole="StateMst" />
+        </EntityType>
+        <EntityType Name="StateMst">
+          <Key>
+            <PropertyRef Name="StateID" />
+          </Key>
+          <Property Name="StateID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="State_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="EmpAddressDets" Relationship="Self.FK_dbo_EmpAddressDet_dbo_StateMst_StateID" FromRole="StateMst" ToRole="EmpAddressDet" />
+          <NavigationProperty Name="Enrollments" Relationship="Self.FK_dbo_Enrollment_dbo_StateMst_StateID" FromRole="StateMst" ToRole="Enrollment" />
+        </EntityType>
+        <Association Name="FK_dbo_Enrollment_dbo_DepMst_Dept_ID">
+          <End Role="DepMst" Type="Self.DepMst" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="Enrollment" Type="Self.Enrollment" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="DepMst">
+              <PropertyRef Name="Dept_ID" />
+            </Principal>
+            <Dependent Role="Enrollment">
+              <PropertyRef Name="Dept_ID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_EmpAddressDet_dbo_EmployeeMst_EmployeeID">
+          <End Role="EmployeeMst" Type="Self.EmployeeMst" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="EmpAddressDet" Type="Self.EmpAddressDet" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="EmployeeMst">
+              <PropertyRef Name="EmployeeID" />
+            </Principal>
+            <Dependent Role="EmpAddressDet">
+              <PropertyRef Name="EmployeeID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_EmpAddressDet_dbo_StateMst_StateID">
+          <End Role="StateMst" Type="Self.StateMst" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="EmpAddressDet" Type="Self.EmpAddressDet" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="StateMst">
+              <PropertyRef Name="StateID" />
+            </Principal>
+            <Dependent Role="EmpAddressDet">
+              <PropertyRef Name="StateID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_Enrollment_dbo_Employee_EmployeeID">
+          <End Role="EmployeeMst" Type="Self.EmployeeMst" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="Enrollment" Type="Self.Enrollment" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="EmployeeMst">
+              <PropertyRef Name="EmployeeID" />
+            </Principal>
+            <Dependent Role="Enrollment">
+              <PropertyRef Name="EmployeeID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_Enrollment_dbo_StateMst_StateID">
+          <End Role="StateMst" Type="Self.StateMst" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="Enrollment" Type="Self.Enrollment" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="StateMst">
+              <PropertyRef Name="StateID" />
+            </Principal>
+            <Dependent Role="Enrollment">
+              <PropertyRef Name="StateID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="EmpOrgEntities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="DepMsts" EntityType="Self.DepMst" />
+          <EntitySet Name="EmpAddressDets" EntityType="Self.EmpAddressDet" />
+          <EntitySet Name="EmployeeMsts" EntityType="Self.EmployeeMst" />
+          <EntitySet Name="Enrollments" EntityType="Self.Enrollment" />
+          <EntitySet Name="StateMsts" EntityType="Self.StateMst" />
+          <AssociationSet Name="FK_dbo_Enrollment_dbo_DepMst_Dept_ID" Association="Self.FK_dbo_Enrollment_dbo_DepMst_Dept_ID">
+            <End Role="DepMst" EntitySet="DepMsts" />
+            <End Role="Enrollment" EntitySet="Enrollments" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_EmpAddressDet_dbo_EmployeeMst_EmployeeID" Association="Self.FK_dbo_EmpAddressDet_dbo_EmployeeMst_EmployeeID">
+            <End Role="EmployeeMst" EntitySet="EmployeeMsts" />
+            <End Role="EmpAddressDet" EntitySet="EmpAddressDets" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_EmpAddressDet_dbo_StateMst_StateID" Association="Self.FK_dbo_EmpAddressDet_dbo_StateMst_StateID">
+            <End Role="StateMst" EntitySet="StateMsts" />
+            <End Role="EmpAddressDet" EntitySet="EmpAddressDets" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_Enrollment_dbo_Employee_EmployeeID" Association="Self.FK_dbo_Enrollment_dbo_Employee_EmployeeID">
+            <End Role="EmployeeMst" EntitySet="EmployeeMsts" />
+            <End Role="Enrollment" EntitySet="Enrollments" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_Enrollment_dbo_StateMst_StateID" Association="Self.FK_dbo_Enrollment_dbo_StateMst_StateID">
+            <End Role="StateMst" EntitySet="StateMsts" />
+            <End Role="Enrollment" EntitySet="Enrollments" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="EmpOrgModelStoreContainer" CdmEntityContainer="EmpOrgEntities1">
+          <EntitySetMapping Name="DepMsts">
+            <EntityTypeMapping TypeName="EmpOrgModel.DepMst">
+              <MappingFragment StoreEntitySet="DepMst">
+                <ScalarProperty Name="Dept_ID" ColumnName="Dept_ID" />
+                <ScalarProperty Name="Dept_Name" ColumnName="Dept_Name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="EmpAddressDets">
+            <EntityTypeMapping TypeName="EmpOrgModel.EmpAddressDet">
+              <MappingFragment StoreEntitySet="EmpAddressDet">
+                <ScalarProperty Name="AddressID" ColumnName="AddressID" />
+                <ScalarProperty Name="Address1" ColumnName="Address1" />
+                <ScalarProperty Name="Address2" ColumnName="Address2" />
+                <ScalarProperty Name="EmployeeID" ColumnName="EmployeeID" />
+                <ScalarProperty Name="StateID" ColumnName="StateID" />
+                <ScalarProperty Name="PinCode" ColumnName="PinCode" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="EmployeeMsts">
+            <EntityTypeMapping TypeName="EmpOrgModel.EmployeeMst">
+              <MappingFragment StoreEntitySet="EmployeeMst">
+                <ScalarProperty Name="EmployeeID" ColumnName="EmployeeID" />
+                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+                <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+                <ScalarProperty Name="LastName" ColumnName="LastName" />
+                <ScalarProperty Name="Emp_Code" ColumnName="Emp_Code" />
+                <ScalarProperty Name="DateOfBirth" ColumnName="DateOfBirth" />
+                <ScalarProperty Name="JoiningDate" ColumnName="JoiningDate" />
+                <ScalarProperty Name="Image" ColumnName="Image" />
+                <ScalarProperty Name="Gender" ColumnName="Gender" />
+                <ScalarProperty Name="EmailID" ColumnName="EmailID" />
+                <ScalarProperty Name="MobileNo" ColumnName="MobileNo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Enrollments">
+            <EntityTypeMapping TypeName="EmpOrgModel.Enrollment">
+              <MappingFragment StoreEntitySet="Enrollment">
+                <ScalarProperty Name="EnrollmentID" ColumnName="EnrollmentID" />
+                <ScalarProperty Name="Salary" ColumnName="Salary" />
+                <ScalarProperty Name="Dept_ID" ColumnName="Dept_ID" />
+                <ScalarProperty Name="EmployeeID" ColumnName="EmployeeID" />
+                <ScalarProperty Name="StateID" ColumnName="StateID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="StateMsts">
+            <EntityTypeMapping TypeName="EmpOrgModel.StateMst">
+              <MappingFragment StoreEntitySet="StateMst">
+                <ScalarProperty Name="StateID" ColumnName="StateID" />
+                <ScalarProperty Name="State_Name" ColumnName="State_Name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

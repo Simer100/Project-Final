@@ -1,0 +1,64 @@
+﻿@model EmpOrgWeb.Models.EmpAddressDet
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_InnerPage.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Address1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PinCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PinCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmployeeMst.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmployeeMst.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StateMst.State_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StateMst.State_Name)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-primary" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

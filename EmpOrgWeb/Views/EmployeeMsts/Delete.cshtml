@@ -1,0 +1,44 @@
+﻿@model EmpOrgWeb.Models.EmployeeMst
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_InnerPage.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <hr />
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2">
+                <img src='/EmpImages/@Model.Image' style='max-width:150px;max-height:150px;' />
+            </div>
+            <div class="col-md-3">
+                @Html.DisplayFor(model => model.FirstName) @Html.DisplayFor(model => model.MiddleName) @Html.DisplayFor(model => model.LastName) (@Html.DisplayFor(model => model.Emp_Code))</br>
+                <i class="icon-mail">&nbsp;</i>@Html.DisplayFor(model => model.EmailID)</br>
+                <i class="icon-phone">&nbsp;</i>@Html.DisplayFor(model => model.MobileNo)
+            </div>
+        </div>
+        <div class="order-1">&nbsp;</div>
+        <div class="row">
+            <div class="col-md-3"> @Html.DisplayNameFor(model => model.DateOfBirth) - @Html.DisplayFor(model => model.DateOfBirth)</div>
+            <div class="col-md-3">@Html.DisplayNameFor(model => model.JoiningDate) - @Html.DisplayFor(model => model.JoiningDate)</div>
+            <div class="col-md-2">@Html.DisplayNameFor(model => model.Gender) - @Html.DisplayFor(model => model.Gender)</div>
+        </div>
+        <div class="order-1">&nbsp;</div>
+    </div>
+
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-primary" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

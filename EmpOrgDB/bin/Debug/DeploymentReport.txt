@@ -1,0 +1,27 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[DepMst] (Table)
+       [dbo].[EmpAddressDet] (Table)
+       [dbo].[EmployeeMst] (Table)
+       [dbo].[Enrollment] (Table)
+       [dbo].[StateMst] (Table)
+       [dbo].[ZoneMst] (Table)
+       [dbo].[FK_dbo.EmpAddressDet_dbo.ZoneMst_ZoneID] (Foreign Key)
+       [dbo].[FK_dbo.EmpAddressDet_dbo.StateMst_StateID] (Foreign Key)
+       [dbo].[FK_dbo.EmpAddressDet_dbo.EmployeeMst_EmployeeID] (Foreign Key)
+       [dbo].[FK_dbo.Enrollment_dbo.Employee_EmployeeID] (Foreign Key)
+       [dbo].[FK_dbo.Enrollment_dbo.DepMst_Dept_ID] (Foreign Key)
+       [dbo].[FK_dbo.Enrollment_dbo.StateMst_StateID] (Foreign Key)
+       [dbo].[FK_dbo.Enrollment_dbo.ZoneMst_ZoneID] (Foreign Key)
+
+** Supporting actions

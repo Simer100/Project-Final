@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3c33f4794be744ee8605adb8d3244f02" Name="Diagram1">
+        <EntityTypeShape EntityType="EmpOrgModel.DepMst" Width="1.5" PointX="3.75" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="EmpOrgModel.EmpAddressDet" Width="1.5" PointX="3" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="EmpOrgModel.EmployeeMst" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="EmpOrgModel.Enrollment" Width="1.5" PointX="6" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="EmpOrgModel.StateMst" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="EmpOrgModel.FK_dbo_Enrollment_dbo_DepMst_Dept_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="EmpOrgModel.FK_dbo_EmpAddressDet_dbo_EmployeeMst_EmployeeID" ManuallyRouted="false" />
+        <AssociationConnector Association="EmpOrgModel.FK_dbo_EmpAddressDet_dbo_StateMst_StateID" ManuallyRouted="false" />
+        <AssociationConnector Association="EmpOrgModel.FK_dbo_Enrollment_dbo_Employee_EmployeeID" ManuallyRouted="false" />
+        <AssociationConnector Association="EmpOrgModel.FK_dbo_Enrollment_dbo_StateMst_StateID" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

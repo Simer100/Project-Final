@@ -1,0 +1,5 @@
+D:\Project\MVC5EF_EmpOrg\EmpOrgDB\bin\Debug\EmpOrgDB.dacpac
+D:\Project\MVC5EF_EmpOrg\EmpOrgDB\bin\Debug\EmpOrgDB.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgDB\bin\Debug\EmpOrgDB.pdb
+D:\Project\MVC5EF_EmpOrg\EmpOrgDB\obj\Debug\EmpOrgDB.dll
+D:\Project\MVC5EF_EmpOrg\EmpOrgDB\obj\Debug\EmpOrgDB.pdb

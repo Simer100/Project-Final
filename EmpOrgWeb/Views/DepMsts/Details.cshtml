@@ -1,0 +1,26 @@
+﻿@model EmpOrgWeb.Models.DepMst
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_InnerPage.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Dept_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Dept_Name)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Dept_ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

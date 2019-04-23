@@ -1,0 +1,58 @@
+﻿@model EmpOrgWeb.Models.EmpAddressDet
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_InnerPage.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Address1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PinCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PinCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmployeeMst.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmployeeMst.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StateMst.State_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StateMst.State_Name)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.AddressID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

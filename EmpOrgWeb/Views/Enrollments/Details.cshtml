@@ -1,0 +1,50 @@
+﻿@model EmpOrgWeb.Models.Enrollment
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_InnerPage.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Salary)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Salary)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DepMst.Dept_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DepMst.Dept_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmployeeMst.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmployeeMst.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StateMst.State_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StateMst.State_Name)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.EnrollmentID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
